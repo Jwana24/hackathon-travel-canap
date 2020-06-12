@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is it ?
+
+It's a school project for the first Hackathon on the theme : traveling from his couch 🛋
+
+<img width="1440" alt="treap-hackathon" src="https://user-images.githubusercontent.com/38757545/84539777-5f5ab800-acf4-11ea-8018-15091ef7f577.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
